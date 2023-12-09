@@ -16,7 +16,7 @@ else if (c<0) {
   System.out.println("Error:can't be money less than 0");
 }
 else {
-  System.out.println("Error: ne mojet bit raven 0");
+  System.out.println("Error: can't be equal to 0");
 }
 }
 
