@@ -16,10 +16,10 @@ if (c>0) {
    System.out.println(c);
 }
 else if (c<0) {
-   System.out.println("error:denqi v minuse ne moqut bit");
+   System.out.println("error:can't be less than 0");
 }
 else {
-    System.out.println("error: ne mojet bit 0");
+    System.out.println("error: can't be  equal to  0");
 }
     
 }
