@@ -12,10 +12,10 @@ if (c>0) {
    System.out.println (c);
 }
 else if (c<0) {
-   System.out.println ("Error:Ne mojet bit v minuse");
+   System.out.println ("Error:can't be less than 0");
 }
 else {
-  System.out.println ("Error:Ne mojet bit raven 0");
+  System.out.println ("Error: can't be equal to 0");
 }
 
 }
